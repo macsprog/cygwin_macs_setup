@@ -11,3 +11,8 @@ Après le téléchargement, voici comment procéder:
 ![screencast3]('pics/Peek%202021-01-21%2021-53.3.gif')
 ![screencast4](pics/Peek%202021-01-21%2021-57.5.gif)
 ![screencast5](pics/Peek%202021-01-21%2021-57.6.gif)
+![screencast6](pics/Peek%202021-01-21%2022-04.7.gif)
+
+Récupérer la commande à copier/coller dans la ligne de commande windows ici: [https://pastebin.com/rP3Qhi69](https://pastebin.com/rP3Qhi69)
+
+![screencast7](pics/Peek%202021-01-21%2023-12.gif)
